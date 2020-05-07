@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73543298364",
+    "firebase_url": "https://esyzfruit.firebaseio.com",
+    "project_id": "esyzfruit",
+    "storage_bucket": "esyzfruit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73543298364:android:321c62528e58bfa3cec239",
+        "android_client_info": {
+          "package_name": "com.test_esy.esyz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73543298364-8smc7r71ia7er1ci2pln65causskk2g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test_esy.esyz2",
+            "certificate_hash": "9f6f9e5fb7dfd63219d8e600f6272f86c28e034d"
+          }
+        },
+        {
+          "client_id": "73543298364-c8rr30r13bnbqmhk2tejnv9m3ibm9j1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRMyk0M631mPdeII1sAr691xc0fTsSj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73543298364-c8rr30r13bnbqmhk2tejnv9m3ibm9j1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

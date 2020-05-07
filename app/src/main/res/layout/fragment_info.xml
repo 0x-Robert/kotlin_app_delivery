@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.MarketInfo.InfoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!--제목부분-->
+    <TextView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:text="강의소개"
+        />
+    <!--본문부분-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:text="리스트뷰(ListView)는 사용자가 정의한 데이터 목록을 세로 방향으로 나열하여 화면에 표시하는 뷰 그룹의 한 종류입니다. ListView와 같은 뷰 그룹(ViewGroup)은 스크롤 기능을 지원하며 사용자가 배치된 각 항목(Item)을 선택하는 것도 가능합니다. 이번 포스팅에서는 BaseAdapter와 ListView를 사용하여 영화 목록을 보여주는 간단한 앱을 구현해보겠습니다.
+
+1. Adapter
+ListView에 사용자가 정의한 데이터를 표시하기 위해서는 Adapter를 사용해야 합니다. 어댑터(Adapter)는 사용자의 데이터를 받아 뷰(View)를 생성해주는 객체로 ListView와는 독립적으로 동작하는 객체입니다. ListView는 Adpater로부터 생성된 뷰(View)를 받아 ListView의 한 항목으로 배치합니다. 어댑터(Adapter)는 관리되는 데이터와 제공하는 뷰(View) 형태에 따라 종류가 다양합니다.
+
+ "/>
+
+
+</FrameLayout>
